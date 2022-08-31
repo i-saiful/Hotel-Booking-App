@@ -1,27 +1,14 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Rooms from '../component/Rooms';
-import { connect } from 'react-redux';
-import { getRooms } from '../redux/roomReducer';
+import { useSelector } from 'react-redux';
 
-const mapDispatchToProps = dispatch => ({
-    getRooms: () => dispatch(getRooms())
-})
+function Home()  {
 
-const mapStateToProps = state => ({
-    rooms: state.rooms.roomList
-})
+        const roomList = useSelector(state => state.rooms.roomList)
 
-class Home extends Component {
-
-    componentDidMount() {
-        this.props.getRooms();
-    }
-
-    render() {
-        const rooms = this.props.rooms.map(room =>
+        const rooms = roomList.map(room =>
             <Rooms key={room.roomId} room={room} />
         )
-
 
         return (
             <div className="container">
@@ -30,7 +17,5 @@ class Home extends Component {
                 </div>
             </div>
         )
-    }
 }
-
-export default connect(mapStateToProps, mapDispatchToProps)(Home)
+export default Home

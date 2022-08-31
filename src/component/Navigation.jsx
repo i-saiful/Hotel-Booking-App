@@ -9,7 +9,7 @@ function Navigation() {
                     <h1 className='font-monospace'>Hotel Booking App</h1>
                 </Link>
                 <div className='d-flex align-items-center'>
-                    <button className='nav-item btn btn-primary'>Book now</button>
+                    <Link to="/roombooked" className='nav-item btn btn-primary'>Room Book</Link>
                     <p className='nav-item m-0 ms-5'>Logout</p>
                 </div>
             </div>
