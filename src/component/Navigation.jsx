@@ -1,7 +1,10 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
+import {useDispatch} from 'react-redux'
+import { logout } from '../redux/authReducer'
 
 function Navigation() {
+    const dispatch = useDispatch()
     return (
         <div className='navbar bg-light'>
             <div className="container">
@@ -10,7 +13,8 @@ function Navigation() {
                 </Link>
                 <div className='d-flex align-items-center'>
                     <Link to="/roombooked" className='nav-item btn btn-primary'>Room Book</Link>
-                    <p className='nav-item m-0 ms-5'>Logout</p>
+                    <p className='btn btn-outline-primary m-0 ms-3'
+                    onClick={() => dispatch(logout())}>Logout</p>
                 </div>
             </div>
         </div>
