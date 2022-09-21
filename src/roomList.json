@@ -1,58 +1,114 @@
 [
   {
-    "roomDesciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    "roomImg": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-    "roomName": "Room 1",
-    "roomId": "NAo5vhK8fcCsHhaBa_f",
-    "isBooked": false
+    "roomId": 1,
+    "roomName": "Room 107",
+    "Category": "Single",
+    "roomImg": [
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/37/37/373786068.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/22/87/228771626.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/66/87/66873886.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/49/57/495775446.jpeg"
+    ],
+    "roomDesciption": "Pan Pacific Sonargaon Dhaka in Bangladesh is a six minute walk from Bashundhara City Shopping Complex and a little over a mile from Bangladesh National Museum. The hotel offers guests in-room complimentary Wi-Fi and a beauty salon. The subdued rooms and suites with low-key decor include flat-screen TVs and en suite bathrooms. Some rooms add sitting areas and suites feature separate living rooms. A 24-hour room service is available. Club lounge rooms have lounge access. Amenities include an outdoor pool, a fitness center and a business center. There are also hot tubs and security staff. There are seven restaurants and bars, including one that offers Italian cuisine and a poolside cafe with barbeque. Pan Pacific Sonargaon Dhaka is a little over one mile from University of Dhaka, two miles from National Parliament House and nine miles from Hazrat Shahjalal International Airport.",
+    "Booked": false
   },
   {
-    "roomDesciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    "roomImg": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-    "roomName": "Room 2",
-    "roomId": "NAo61_s9IFZ5SsvbSVi",
-    "isBooked": false
+    "roomId": 2,
+    "roomName": "Room 205",
+    "Category": "Single",
+    "roomImg": [
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/35/73/357388748.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/35/73/357388760.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/35/73/357388744.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/35/73/357388778.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/35/73/357388842.jpeg"
+    ],
+    "roomDesciption": "Pamper yourself with onsite massages and facials. You can take advantage of recreational amenities such as a 24-hour health club, an outdoor pool, and a steam room. This resort also features complimentary wireless Internet access, concierge services, and babysitting (surcharge).Grab a bite at one of the resort's 7 restaurants, or stay in and take advantage of the 24-hour room service. Relax with a refreshing drink from the poolside bar or one of the 3 bars/lounges. Buffet breakfasts are available daily from 6:30 AM to 11:00 AM for a fee.Featured amenities include a business center, express check-in, and complimentary newspapers in the lobby. Planning an event in Dhaka? This resort has 16512 square feet (1534 square meters) of space consisting of a conference center and meeting rooms. A roundtrip airport shuttle is provided for a surcharge (available 24 hours), and free self parking is available onsite.Make yourself at home in one of the 304 air-conditioned rooms featuring minibars and LED televisions. Complimentary wired and wireless Internet access keeps you connected, and cable programming provides entertainment. Private bathrooms with separate bathtubs and showers feature deep soaking bathtubs and rainfall showerheads. Conveniences include phones, as well as safes and desks.Distances are displayed to the nearest 0.1 mile and kilometer. Rajuk Trade Center Shopping Mall - 0.8 km / 0.5 mi Army Golf Club - 2.8 km / 1.7 mi Kurmitola General Hospital - 3.2 km / 2 mi Armed Forces Medical College - 3.3 km / 2.1 mi Aarong Flagship Outlet - 3.5 km / 2.2 mi Update Tower - 4.2 km / 2.6 mi North Tower - 4.9 km / 3.1 mi International Convention City Bashundhara - 6.2 km / 3.8 mi Jamuna Future Park - 6.3 km / 3.9 mi United Hospital - 8 km / 4.9 mi Bangladesh Army Stadium - 8.3 km / 5.2 mi Baridhara Park - 8.4 km / 5.2 mi Baridhara Central Mosque - 8.6 km / 5.3 mi Bangladesh Navy Headquarter - 8.6 km / 5.4 mi Gulshan Ladies Park - 10.1 km / 6.3 mi The preferred airport for Le Meridien Dhaka is Shahjalal Intl. Airport (DAC) - 2.7 km / 1.6 mi When you stay at Le Meridien Dhaka in Dhaka, you'll be next to a golf course, within a 5-minute drive of Aarong Flagship Outlet and Rajuk Trade Center Shopping Mall. This 5-star resort is 2.9 mi (4.7 km) from Update Tower and 3.1 mi (4.9 km) from North Tower.Near Rajuk Trade Center Shopping Mall",
+    "Booked": false
   },
   {
-    "roomDesciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    "roomImg": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-    "roomName": "Room 3",
-    "roomId": "NAo68cA3rchxhAfaxoF",
-    "isBooked": false
+    "roomId": 3,
+    "roomName": "Room 355",
+    "Category": "Double",
+    "roomImg": [
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/84/03/840367118.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/84/03/840367112.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/66/52/665258396.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/66/52/665258316.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/66/52/665258364.jpeg"
+    ],
+    "roomDesciption": "Don't miss out on recreational opportunities including an outdoor pool and a fitness center. Additional features at this hotel include complimentary wireless Internet access, concierge services, and free babysitting.Enjoy a meal at the restaurant or snacks in the coffee shop/cafe. The hotel also offers 24-hour room service. Unwind at the end of the day with a drink at the bar/lounge or the poolside bar. Buffet breakfasts are available daily from 6:30 AM to 10:00 AM for a fee.Featured amenities include complimentary wired Internet access, a business center, and express check-in. This hotel has 8 meeting rooms available for events. A roundtrip airport shuttle is provided for a surcharge (available 24 hours), and free self parking is available onsite.Make yourself at home in one of the 226 air-conditioned rooms featuring espresso makers and flat-screen televisions. Complimentary wireless Internet access is available to keep you connected. Private bathrooms with separate bathtubs and showers feature complimentary toiletries and hair dryers. Conveniences include phones, as well as safes and desks.Distances are displayed to the nearest 0.1 mile and kilometer. Baily Road - 0.6 km / 0.3 mi St. Mary's Cathedral - 1.2 km / 0.8 mi Ramna Park - 1.4 km / 0.9 mi Hatir Jheel - 1.9 km / 1.2 mi Katabon Mosque - 2.6 km / 1.6 mi Bashundhara City Mall - 2.6 km / 1.6 mi Bangabandhu National Stadium - 2.9 km / 1.8 mi Chawk Mosque - 3 km / 1.8 mi Baitul Mukarram - 3.1 km / 1.9 mi Square Hospital Limited - 3.3 km / 2.1 mi Star Mosque - 3.6 km / 2.2 mi Banga Bhaban - 3.8 km / 2.3 mi Holy Rosary Church - 4.1 km / 2.5 mi Bangabandhu International Conference Center - 4.2 km / 2.6 mi Nakhalpara Sapra Mosque - 4.3 km / 2.7 mi The preferred airport for InterContinental Dhaka, an IHG Hotel is Shahjalal Intl. Airport (DAC) - 15.1 km / 9.4 mi A stay at InterContinental Dhaka, an IHG Hotel places you in the heart of Dhaka, within a 15-minute walk of Baily Road and St. Mary's Cathedral. This 4.5-star hotel is 0.4 mi (0.7 km) from University of Dhaka and 0.6 mi (0.9 km) from Katabon Mosque.Near Bangladesh National Museum",
+    "Booked": false
   },
   {
-    "roomDesciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    "roomImg": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-    "roomName": "Room 4",
-    "roomId": "NAo6HG3P2HpHf7ul8Zr",
-    "isBooked": false
+    "roomId": 4,
+    "roomName": "Room 402",
+    "Category": "Double",
+    "roomImg": [
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/46/44/46443628.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/46/44/46443632.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/46/44/46444886.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/66/55/665542404.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/66/55/665542422.jpeg"
+    ],
+    "roomDesciption": "Pamper yourself with a visit to the spa, which offers massages, body treatments, and facials. You're sure to appreciate the recreational amenities, including an outdoor pool and a fitness center. This Art Deco hotel also features complimentary wireless Internet access, concierge services, and gift shops/newsstands.Enjoy local and international cuisine at BAHAR, one of the hotel's 2 restaurants, or stay in and take advantage of the 24-hour room service. Snacks are also available at the coffee shop/café. Mingle with other guests at the complimentary reception, held daily. Relax with a refreshing drink from the poolside bar or one of the 2 bars/lounges. Buffet breakfasts are available daily from 6:30 AM to 10:30 AM for a fee.Featured amenities include a business center, express check-in, and express check-out. Planning an event in Dhaka? This hotel has facilities measuring 5550 square feet (516 square meters), including a conference center. A roundtrip airport shuttle is provided for a surcharge (available 24 hours), and free valet parking is available onsite.Make yourself at home in one of the 211 individually decorated guestrooms, featuring minibars and Smart televisions. Your room comes with a pillowtop bed. Complimentary wired and wireless Internet access keeps you connected, and cable programming provides entertainment. Private bathrooms with shower/tub combinations feature rainfall showerheads and designer toiletries.Distances are displayed to the nearest 0.1 mile and kilometer. Gulshan Circle 1 - 0.4 km / 0.3 mi Gulshan South Paka Market D.N.C.C. - 0.6 km / 0.4 mi Police Plaza Concord Shopping Mall - 1.3 km / 0.8 mi Hatir Jheel - 1.5 km / 0.9 mi Gulshan Ladies Park - 2.3 km / 1.5 mi United Hospital - 2.8 km / 1.8 mi Baridhara Park - 3 km / 1.9 mi Baridhara Central Mosque - 3.1 km / 1.9 mi Bangladesh Navy Headquarter - 3.3 km / 2 mi Jamuna Future Park - 4 km / 2.5 mi Nakhalpara Sapra Mosque - 4.3 km / 2.7 mi Bangladesh Army Stadium - 5.7 km / 3.5 mi Bangabandhu International Conference Center - 6.1 km / 3.8 mi Kurmitola General Hospital - 6.3 km / 3.9 mi Armed Forces Medical College - 6.4 km / 4 mi The preferred airport for Renaissance Dhaka Gulshan Hotel is Shahjalal Intl. Airport (DAC) - 11.3 km / 7 mi With a stay at Renaissance Dhaka Gulshan Hotel in Dhaka, you'll be 5.7 mi (9.2 km) from Curzon Hall and 5.9 mi (9.5 km) from Bangabandhu National Stadium. This 5-star hotel is 6 mi (9.7 km) from Baitul Mukarram and 6.3 mi (10.1 km) from Banga Bhaban.Near Gulshan Circle 1",
+    "Booked": false
   },
   {
-    "roomDesciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    "roomImg": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-    "roomName": "Room 5",
-    "roomId": "-NAo6LMf-Nc5LT7KIlcd",
-    "isBooked": false
+    "roomId": 5,
+    "roomName": "Room 505",
+    "Category": "Twin",
+    "roomImg": [
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/52/41/524175008.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/12/49/1249751042.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/28/54/285488844.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/52/41/524174956.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/52/41/524175022.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/12/49/1249751038.jpeg"
+    ],
+    "roomDesciption": "The Radisson Blu Water Garden Hotel in Dhaka offers guests affordable accommodation with complimentary Wi-Fi Internet access. Air-conditioned rooms include private bathrooms, safety deposit boxes, electric kettles, showers, free toiletries, minibars, and TVs with satellite channels. Guests can request irons and ironing boards if they need one. The Radisson Blu Water Garden Hotel features an outdoor pool, a tour desk, fitness center, meeting facilities, a spa and wellness center and free parking. Guests can dine at any of the four on-site restaurants during their stay or stop by for refreshments at the two on-site bars. There are also shops, cafes and restaurants within steps of the property. The Hazrat Shahjalal International Airport is less than a 15-minute drive from the property. Lalbag Fort is a 45-minute drive from this hotel and the National Parliament is approximately 25 minutes away by car.",
+    "Booked": false
   },
   {
-    "roomDesciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    "roomImg": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-    "roomName": "Room 6",
-    "roomId": "-NAo6RpqWU3ra-dYP3QE",
-    "isBooked": false
+    "roomId": 6,
+    "roomName": "Room 625",
+    "Category": "Twin",
+    "roomImg": [
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/43/06/430607752.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/74/09/740937010.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/74/09/740937026.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/74/09/740937048.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/37/37/373785628.jpeg"
+    ],
+    "roomDesciption": "Enjoy recreational amenities such as a health club and an outdoor pool. This hotel also features complimentary wireless Internet access, concierge services, and a television in a common area.The hotel rooms consists of stylihsly appointed suites that span at least 47sq metres and offer all the comforts of home. Natural daylight illuminates their contemporary decor.The hotel comprises a total of 30 rooms. Services and facilities at the hotel include a dining area, room service and a conference room. Wireless internet access is available to guests. Those arriving in their own vehicles can leave them in the car park of the accommodation. The hotel offers attractions including sport and entertainment opportunities. A pool and an outdoor pool are available to travellers. The accommodation offers a gym (for a fee) to guests.The Four Points by Sheraton Dhaka, Gulshan offers convenient accessibility in its commercial and residential district. There are offices and restaurants just steps away from our hotel, and Hazrat Shahjalal International Airport (DAC) if of close proximity.5 kms to city centre 8 kms to the nearest airport (shahjalal international airport).",
+    "Booked": false
   },
   {
-    "roomDesciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    "roomImg": "https://images.unsplash.com/photo-1591088398332-8a7791972843?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-    "roomName": "Room 7",
-    "roomId": "-NAo6ZjGPMF-ayh8Mq3O",
-    "isBooked": false
+    "roomId": 7,
+    "roomName": "Room 705",
+    "Category": "Quadruple",
+    "roomImg": [
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/36/03/36030618.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/36/03/36030598.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/36/03/36030674.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/85/82/858239392.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/85/82/858239354.jpeg"
+    ],
+    "roomDesciption": "Enjoy recreational amenities such as a health club and an outdoor pool. This hotel also features complimentary wireless Internet access, concierge services, and a television in a common area.The hotel rooms consists of stylihsly appointed suites that span at least 47sq metres and offer all the comforts of home. Natural daylight illuminates their contemporary decor.The hotel comprises a total of 30 rooms. Services and facilities at the hotel include a dining area, room service and a conference room. Wireless internet access is available to guests. Those arriving in their own vehicles can leave them in the car park of the accommodation. The hotel offers attractions including sport and entertainment opportunities. A pool and an outdoor pool are available to travellers. The accommodation offers a gym (for a fee) to guests.The Four Points by Sheraton Dhaka, Gulshan offers convenient accessibility in its commercial and residential district. There are offices and restaurants just steps away from our hotel, and Hazrat Shahjalal International Airport (DAC) if of close proximity.5 kms to city centre 8 kms to the nearest airport (shahjalal international airport).",
+    "Booked": false
   },
   {
-    "roomDesciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    "roomImg": "https://images.unsplash.com/photo-1566195992011-5f6b21e539aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-    "roomName": "Room 8",
-    "roomId": "-NAo6dssJ4yC0CdbPyO-",
-    "isBooked": false
+    "roomId": 8,
+    "roomName": "Room 802",
+    "Category": "Quadruple",
+    "roomImg": [
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/11/55/1155895044.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/70/70/707091282.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/66/62/666275928.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/11/55/1155895036.jpeg",
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/70/70/707091284.jpeg"
+    ],
+    "roomDesciption": "Welcome to Holiday Inn Dhaka City Centre, the first Holiday Inn in Bangladesh. Located in the center of Bangladesh’s Diplomatic Zone and commercial district. Our fresh and comfortable guest rooms with well-equipped and spacious work space will help you achieve a productive business trip. Enjoy work-life balance by staying connected with your friends and family with high speed internet access in the room and throughout the hotel. Relax by the Bar after a hard day's work or enjoy our all day dining restaurants. Host your event in our modern 180-seats function room with innovative design, modern audio-visual equipment, and three other meeting rooms to ensure maximum efficiency for your event. Our banquets team can also customize our facilities to suit your event’s needs, whether it is a boardroom meeting, intimate champagne reception or grand wedding dinner. Experience the genuine service delivered by our warm and friendly team. Be rewarded and recognized by the largest loyalty programme in the world – IHG Rewards Club. Whether for business or pleasure, stay comfortable with us.",
+    "Booked": false
   }
 ]

@@ -6,7 +6,7 @@ import { roomBook } from '../redux/roomReducer';
 function Rooms({ room, handleRoomBook = false }) {
     const navigate = useNavigate();
     const dispatch = useDispatch()
-    const { roomId, isBooked, roomName, roomImg } = room
+    const { roomId, isBooked, roomName } = room
     // console.log(roomBook);
 
     const handleClick = room => {
@@ -21,7 +21,7 @@ function Rooms({ room, handleRoomBook = false }) {
     if (handleRoomBook) {
         cardBody = (
             <button
-            disabled={isBooked}
+                disabled={isBooked}
                 className='btn btn-primary'
                 onClick={() => handleBook(roomId)} >
                 Book now
@@ -29,15 +29,29 @@ function Rooms({ room, handleRoomBook = false }) {
         )
     } else {
         cardBody = (
-            <h5 className="card-title">{roomName}</h5>
+            <>
+                <h5 className="card-title">{roomName}</h5>
+                <div className='d-flex justify-content-between flex-wrap'>
+                    <button className='btn btn-outline-info mt-1 mx-auto'
+                        onClick={() => handleClick(room)}>
+                        View Details</button>
+                    <button
+                        className="btn btn-outline-primary mt-1 mx-auto">
+                        Room Book</button>
+                </div>
+            </>
         )
     }
-
+    
     return (
         <div className='p-2'>
             <div className='card p-0'>
-                <img src={roomImg} onClick={() => handleClick(room)}
-                    className="card-img-top" alt={roomName} />
+                <div className="position-absolute">
+                    <span className="badge bg-primary ms-2 mt-2">Primary</span>
+                </div>
+                <img src={room.roomImg[0]}
+                    className="card-img-top" alt={roomName}
+                    style={{ height: '14rem' }} />
                 <div className="card-body">
                     {cardBody}
                 </div>
