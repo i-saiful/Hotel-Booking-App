@@ -35,7 +35,7 @@ function Rooms({ room, handleRoomBook = false }) {
                     <button className='btn btn-outline-info mt-1 mx-auto'
                         onClick={() => handleClick(room)}>
                         View Details</button>
-                    <button
+                    <button disabled={booked}
                         className="btn btn-outline-primary mt-1 mx-auto">
                         Room Book</button>
                 </div>

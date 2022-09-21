@@ -2,7 +2,7 @@
   {
     "roomId": 1,
     "roomName": "Room 107",
-    "Category": "Single",
+    "category": "Single",
     "roomImg": [
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/37/37/373786068.jpeg",
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/22/87/228771626.jpeg",
@@ -15,7 +15,7 @@
   {
     "roomId": 2,
     "roomName": "Room 205",
-    "Category": "Single",
+    "category": "Single",
     "roomImg": [
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/35/73/357388748.jpeg",
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/35/73/357388760.jpeg",
@@ -29,7 +29,7 @@
   {
     "roomId": 3,
     "roomName": "Room 355",
-    "Category": "Double",
+    "category": "Double",
     "roomImg": [
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/84/03/840367118.jpeg",
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/84/03/840367112.jpeg",
@@ -43,7 +43,7 @@
   {
     "roomId": 4,
     "roomName": "Room 402",
-    "Category": "Double",
+    "category": "Double",
     "roomImg": [
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/46/44/46443628.jpeg",
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/46/44/46443632.jpeg",
@@ -57,7 +57,7 @@
   {
     "roomId": 5,
     "roomName": "Room 505",
-    "Category": "Twin",
+    "category": "Twin",
     "roomImg": [
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/52/41/524175008.jpeg",
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/12/49/1249751042.jpeg",
@@ -72,7 +72,7 @@
   {
     "roomId": 6,
     "roomName": "Room 625",
-    "Category": "Twin",
+    "category": "Twin",
     "roomImg": [
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/43/06/430607752.jpeg",
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/74/09/740937010.jpeg",
@@ -86,7 +86,7 @@
   {
     "roomId": 7,
     "roomName": "Room 705",
-    "Category": "Quadruple",
+    "category": "Quadruple",
     "roomImg": [
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/36/03/36030618.jpeg",
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/36/03/36030598.jpeg",
@@ -100,7 +100,7 @@
   {
     "roomId": 8,
     "roomName": "Room 802",
-    "Category": "Quadruple",
+    "category": "Quadruple",
     "roomImg": [
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/11/55/1155895044.jpeg",
       "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/70/70/707091282.jpeg",

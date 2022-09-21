@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
 import { roomBook } from '../redux/roomReducer';
@@ -7,25 +7,28 @@ import Amenities from '../component/Amenities';
 
 function Room() {
     const room = useLocation().state.room;
-    const { roomName, roomDesciption, roomId, isBooked } = room
+    const { roomName, roomDesciption, roomId, booked, category } = room
     const dispatch = useDispatch();
-    const [bookNow, setBookNow] = React.useState(isBooked)
+    const [bookNow, setBookNow] = useState(booked)
+    const [thumbnail, setThumbnail] = useState(room.roomImg[0])
 
     const handleClick = roomId => {
         dispatch(roomBook(roomId))
         setBookNow(!bookNow)
     }
+    
     const imgList = room.roomImg.map((item, i) =>
         <img src={item} alt={roomName} key={i}
             className='card-img-top me-1 rounded mb-sm-1 me-sm-0'
-            style={{ height: '8rem'}} />
+            style={{ height: '8rem' }}
+            onClick={() => setThumbnail(item)} />
     )
 
     return (
         <div className='container my-5'>
             <div className="card border-0">
                 <div className='d-sm-flex' style={{ height: '30rem' }}>
-                    <img src={room.roomImg[0]} alt={roomName} style={{ width: "80%" }}
+                    <img src={thumbnail} alt={roomName} style={{ width: "80%" }}
                         className='card-img-top mb-1 order-sm-1 ms-3 rounded'
                     />
                     <div className='overflow-scroll scrollbar-hidden
@@ -37,7 +40,7 @@ function Room() {
                 <div className="card-body">
                     <div className='d-flex align-items-center justify-content-between'>
                         <div className="card-title m-0 fs-4"> {roomName}
-                            <span className='badge bg-secondary'>Single</span>
+                            <span className='badge bg-secondary ms-3'>{category}</span>
                         </div>
                         <button className='d-inline-block btn btn-primary'
                             onClick={() => handleClick(roomId)}
