@@ -21,7 +21,7 @@ const roomReducer = createSlice({
         roomBook: (state, action) => {
             const roomList = [...state.roomList]
             const newList = roomList.map(room => room.roomId === action.payload ?
-                { ...room, isBooked: !room.isBooked } : {...room})
+                { ...room, booked: !room.booked } : {...room})
             return {
                 ...state,
                 roomList: newList

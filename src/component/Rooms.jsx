@@ -6,7 +6,7 @@ import { roomBook } from '../redux/roomReducer';
 function Rooms({ room, handleRoomBook = false }) {
     const navigate = useNavigate();
     const dispatch = useDispatch()
-    const { roomId, isBooked, roomName } = room
+    const { roomId, booked, roomName } = room
     // console.log(roomBook);
 
     const handleClick = room => {
@@ -21,7 +21,7 @@ function Rooms({ room, handleRoomBook = false }) {
     if (handleRoomBook) {
         cardBody = (
             <button
-                disabled={isBooked}
+                disabled={booked}
                 className='btn btn-primary'
                 onClick={() => handleBook(roomId)} >
                 Book now
@@ -42,12 +42,15 @@ function Rooms({ room, handleRoomBook = false }) {
             </>
         )
     }
-    
+
     return (
         <div className='p-2'>
             <div className='card p-0'>
                 <div className="position-absolute">
-                    <span className="badge bg-primary ms-2 mt-2">Primary</span>
+                    <span className={booked ?
+                        "badge bg-danger ms-2 mt-2" : "badge bg-primary ms-2 mt-2"}>
+                        {booked ? "Not Available" : "Available"}
+                    </span>
                 </div>
                 <img src={room.roomImg[0]}
                     className="card-img-top" alt={roomName}
