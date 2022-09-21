@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 import roomList from '../roomList.json';
 
 const initialState = {
-    roomList: roomList,
+    roomList: JSON.parse(localStorage.getItem('roomList')) || roomList,
     isLoading: false
 }
 
@@ -21,7 +21,8 @@ const roomReducer = createSlice({
         roomBook: (state, action) => {
             const roomList = [...state.roomList]
             const newList = roomList.map(room => room.roomId === action.payload ?
-                { ...room, booked: !room.booked } : {...room})
+                { ...room, booked: !room.booked } : { ...room })
+            localStorage.setItem('roomList', JSON.stringify(newList))
             return {
                 ...state,
                 roomList: newList

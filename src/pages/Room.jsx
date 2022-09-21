@@ -1,23 +1,25 @@
 import React, { useState } from 'react';
 import { useLocation } from 'react-router-dom';
-import { useDispatch } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 import { roomBook } from '../redux/roomReducer';
 import TopAmenities from '../component/TopAmenities';
 import Amenities from '../component/Amenities';
 
 function Room() {
-    const room = useLocation().state.room;
-    const { roomName, roomDesciption, roomId, booked, category } = room
+    const roomId = useLocation().state.roomId;
+    const roomList = useSelector(state => state.rooms.roomList)
+    const room = roomList.filter(id => id.roomId === roomId)
+    const { roomName, roomDesciption, booked, category } = room[0]
     const dispatch = useDispatch();
     const [bookNow, setBookNow] = useState(booked)
-    const [thumbnail, setThumbnail] = useState(room.roomImg[0])
+    const [thumbnail, setThumbnail] = useState(room[0].roomImg[0])
 
     const handleClick = roomId => {
         dispatch(roomBook(roomId))
         setBookNow(!bookNow)
     }
-    
-    const imgList = room.roomImg.map((item, i) =>
+
+    const imgList = room[0].roomImg.map((item, i) =>
         <img src={item} alt={roomName} key={i}
             className='card-img-top me-1 rounded mb-sm-1 me-sm-0'
             style={{ height: '8rem' }}

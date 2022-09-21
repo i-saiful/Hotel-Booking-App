@@ -19,7 +19,6 @@ function Home() {
         } else {
             list = roomList.filter(room => room.category === e)
         }
-        console.log(list);
         setFilterRooms(list)
     }
 

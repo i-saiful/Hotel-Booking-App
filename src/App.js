@@ -1,7 +1,6 @@
 import Navigation from "./component/Navigation";
 import Home from "./pages/Home";
 import Room from "./pages/Room";
-import RoomBoked from "./pages/RoomBoked";
 import { Routes, Route, Navigate } from 'react-router-dom';
 import UserForm from "./pages/UserForm";
 import { connect } from 'react-redux'
@@ -29,7 +28,6 @@ class App extends Component {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/room/:roomId" element={<Room />} />
-          <Route path="/roombooked" element={<RoomBoked />} />
           <Route path="*" element={<Navigate to="/" replace={true} />} />
         </Routes>
       )
